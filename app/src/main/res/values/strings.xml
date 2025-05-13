@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyApplication</string>
+    <string name="enter_the_number_of_points_to_fetch_1_1000">Enter the number of points to fetch (1-1000)</string>
+    <string name="number_of_points">Number of points</string>
+    <string name="go">Go</string>
+    <string name="points_table">Points Table</string>
+    <string name="save_chart">Save Chart</string>
+    <string name="saving">Saving...</string>
+    <string name="failed_share_plot">"Failed to share chart: "</string>
+    <string name="share_chart">Share chart</string>
+</resources>
